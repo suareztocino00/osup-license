@@ -1,3 +1,4 @@
+
 # oSup License v1
 
 ## Main propuse
@@ -8,4 +9,4 @@ The software that many develop, either they are paid, or if they are free, they 
 
 ## Version log
 
- - [ ] v1 - First Version
+- [X] v1 - First Version [here](https://suareztocino00.github.io/osup-license/os-license)
