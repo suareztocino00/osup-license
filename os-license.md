@@ -36,7 +36,7 @@ The developer is free to attribute to any:
 - etc.
 
 As long as the software is under this license. You are forced to put the attributions in the software installer (in case of not putting in an installer either by using linux, then you are forced to put it in the Help menu. Where is it: About, License, etc.)
-## Chapter 3: oSoftPay
+## Chapter 2: oSoftPay
 This chapter is quite long and sensitive to explain.
 
 The use of the software created under this license must always be enhanced by the freedom of use, and of course purchases within said software can be included whenever notified, also including the possibility of donations and contributions. Contributions are generally based on volunteer developers (as long as they are always credited to the software), see `oFree` section.
@@ -51,7 +51,7 @@ Any infringement of this license related to the purchase within the software can
 
 It is an initiative of SupSoft (by **suareztocino00**)
 
-## Chapter 4: supDevFree
+## Chapter 3: supDevFree
 
 The goal of the developer is to create software and distribute it and with it, his idea is reflected in many many computer computers.
 
