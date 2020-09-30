@@ -16,16 +16,16 @@ The use of this license must be like this:
 
 ### 1.3: oFree Method
 The oFree method is about your software being able to be used by anyone, for free at the start. *You can find more information in the "oFree" section*
-### 2.1: Freedom to create and distribute
+### 2: Freedom to create and distribute
 The developer can make with his software any idea captured in his mind, as long as his intention is to help the user in his task or make him have a good time. Like for example an office program or a game. The software must always be free at the beginning, from its download to its installation and use. No creating licensing programs or using network activators. It is said that any software that you have to pay to use can be vulnerable for the simple fact of paying for it. However, if you use the option to include purchases within such software, you can consult the `oSoftPay` section below
-### 2.2: No to cybercrime
+### 2.1: No to cybercrime
 The creator of the software must create content that provides the user with always legal and accessible content. We say it, because any software must have a specific function. For example: A P2P or BitTorrent client is used to share large files between users. As well as, for example, a source code of a software among its developers or part of it. But realizing that everyone uses BitTorrent to download illegal movies and P2P to transfer child pornography.
 
 oSup wants to promote the cleaning of the software not as its code, but the function that its users do with it. If x developer performs a specific P2P to publish school bullying, or x developer performs a specific BitTorrent to transfer malicious software source code. We are totally against them doing so. This is how this license marks it. If a user makes software with such infringements, they can send us an email to: osup-licensing@gmail.com
-### 2.3: No need for developer accounts or posting to a marketplace
+### 2.2: No need for developer accounts or posting to a marketplace
 For the normal user, one who uses a computer. It will be easy to google for software, but those who normally use Linux are used to a Marketplace. oSup pretends that nobody has to go through a developer filter, or a filter to publish, since we do not want the software to concentrate. You can concentrate, and any developer can create a concentration of such software either qualified under this license (software within software with the same license) or deferred license software. (software with dual licenses). This only applies to the completion of creating a Marketplace for software and applies only in case of creating a Marketplace software with this current license.
 
-### 2.4: Attributions
+### 2.3: Attributions
 The developer is free to attribute to any:
 
 - Person
