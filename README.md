@@ -9,4 +9,5 @@ The software that many develop, either they are paid, or if they are free, they 
 
 ## Version log
 
-- [X] v1 - First Version [here](https://suareztocino00.github.io/osup-license/os-license)
+- [X] v1 (rev 1a) - Revision and fix bad contact e-mail [here](https://suareztocino00.github.io/osup-license/os-license)
+- [X] v1 - First Version
